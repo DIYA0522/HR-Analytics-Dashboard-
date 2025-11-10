@@ -7,9 +7,9 @@ A HR Analytics Dashboard to help an organisation to improve Employee Performance
 and Employee Retention (reduce attrition).
 
 Dashboard consists of three departments
-Human Resources 
-Research and Development
-Sales
+1. Human Resources  
+2. Research and Development
+3. Sales
 
 Dashboard filters and gets customised based on the Department.
 
