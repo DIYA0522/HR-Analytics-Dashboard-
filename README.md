@@ -17,6 +17,5 @@ KPIs - Key Performance Indicators showing a summary of the entire dashboard.
 
 SCOPE:
 Factors leading to employee attrition
-
-
+KPIs supporting the analysis -- acheived using Pivot Tables
 
