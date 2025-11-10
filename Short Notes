@@ -1,1 +1,37 @@
 KPIs -- Key Performance Indicators
+
+Data Cleaning and Processing
+
+Steps Followed
+I. Data Imported to Power BI
+II. Transform Data - Data Cleaning and Processing
+Now inside the Power Query Editor Tool
+Remove Duplicates
+Remove Null Values -- View>Column Quality
+ Easy way , Sort Column
+ Home>Remove Rows>Remove Top Rows
+
+Select Employee_ID > Group By in Ribbon> Count
+To understand if there is more than 1 record for same employee id
+
+To remove duplicates
+select first column, move to last column, Press Shift -, click last column
+now all cols selected>right click >remove duplicates
+
+To check if any row names not proper,
+check filter of column, 
+click any cell in the column, right click>replace
+
+To check the datatypes of each column
+Select all columns, Transform> Detect Data Type
+
+Now mostly all data is clean
+
+CLOSE AND APPLY
+
+
+
+
+
+
+
